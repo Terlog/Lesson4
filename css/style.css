@@ -1,0 +1,8 @@
+/* --RESET STYLES--- */
+@import url("reset.css");
+
+img {
+    border-radius: 10%;
+    height: 420px;
+    width: 320px;
+  }
