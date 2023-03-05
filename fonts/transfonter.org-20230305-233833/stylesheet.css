@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dark Wizards';
+    src: url('DarkWizards.woff2') format('woff2'),
+        url('DarkWizards.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
